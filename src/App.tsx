@@ -44,7 +44,7 @@ export default function App() {
 
               <FadeIn delay={800} duration={1000}>
                 <p className="text-base md:text-lg text-gray-300 mb-5">
-                  Kahramanmaraş'ın köklü emlak ve inşaat firması.
+                  Şanlıurfa'nın köklü emlak ve inşaat firması.
                   Arsa, konut, inşaat ve araç kategorilerinde güvenilir çözümler.
                 </p>
               </FadeIn>
